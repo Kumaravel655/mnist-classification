@@ -125,6 +125,8 @@ plt.imshow(img_28_gray_scaled.reshape(28,28),cmap='gray')
 
 
 ### New Sample Data Prediction
+![Screenshot (191)](https://user-images.githubusercontent.com/75235334/196388385-9eb81e04-6362-4c32-9353-9cee7ffce7a8.png)
+
 
 ![image](https://user-images.githubusercontent.com/75235334/191759851-84ce8a1d-032f-4040-985b-7bfb47b5b831.png)
 
