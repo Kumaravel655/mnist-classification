@@ -1,15 +1,14 @@
-# Convolutional Deep Neural Network for Digit Classification
-
+### EXP NO: 03
+### Date:24.09.2022
+# <p align = "center"> Convolutional Deep Neural Network for Digit Classification
 ## AIM
 
 To Develop a convolutional deep neural network for digit classification and to verify the response for scanned handwritten images.
 
 ## Problem Statement and Dataset
-
 The MNIST dataset is a collection of handwritten digits. The task is to classify a given image of a handwritten digit into one of 10 classes representing integer values from 0 to 9, inclusively. The dataset has a collection of 60,000 handwrittend digits of size 28 X 28. Here we build a convolutional neural network model that is able to classify to it's appropriate numerical value.
-
 ## Neural Network Model
-![k2](https://user-images.githubusercontent.com/75235334/191760194-fee4f6dd-a4df-4d72-bb70-bb954131d79c.png)
+![kk](https://user-images.githubusercontent.com/75235334/204122124-595ba77b-db0d-4716-9ac8-f2e0d42a0b57.png)
 
 ## DESIGN STEPS
 ### STEP-1:
@@ -33,7 +32,7 @@ Evaluate the model with the testing data
 ### STEP-10:
 Fit the model and predict the single input
 
-## PROGRAM
+## <br><br>PROGRAM
 ```python
 # Developed By:KUMARAVEL V
 # Register Number:212220230027
@@ -105,14 +104,14 @@ plt.imshow(img_28_gray_scaled.reshape(28,28),cmap='gray')
 ```
 
 
-## OUTPUT
+## <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 ![p2](https://user-images.githubusercontent.com/75235334/191758077-8671f623-62bf-44c9-a879-ba49fe350d8b.png)
 ![pp](https://user-images.githubusercontent.com/75235334/191758089-fd44b48d-d913-451e-8db7-074b3bcac0bf.png)
 
 
-### Classification Report
+### <br><br><br><br><br><br><br><br><br><br><br><br><br><br>Classification Report
 
 ![image](https://user-images.githubusercontent.com/75235334/191759171-8cb934e0-fd94-40d7-b3d1-fd5e877513b6.png)
 
